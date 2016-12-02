@@ -1,0 +1,24 @@
+#pageLogo {
+  padding-bottom: 20px;
+  padding-top: 0px;
+}
+
+#photoSpace {
+  padding-top: 40px;
+}
+
+.photoSize {
+  height: 400px;
+  width: 100%;
+}
+
+body {
+  padding-top: 0px;
+}
+
+.aboutMeHeading {
+  background-color: #ADD8E6;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
